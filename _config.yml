@@ -1,0 +1,9 @@
+name: "hxhl95;"
+description: "a mind palace"
+
+url: "http://hxhl95.github.com"
+
+paginate: 10
+
+markdown: rdiscount
+permalink: pretty
