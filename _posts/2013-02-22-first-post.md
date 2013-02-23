@@ -1,7 +1,6 @@
 ---
-layout: default
+layout: post
 title: F1RST P0ST
-category: news
 tags: news
 ---
 This is a test post made using the Jekyll system on GitHub. The text of this post is written in [Markdown](http://en.wikipedia.org/wiki/Markdown), a surprisingly lightweight markup language.
