@@ -19,6 +19,10 @@ h1, h2, h3, h4, h5, h6, p, ul, ol, table, pre, dl {
 margin:0 0 20px;
 }
 
+li ul, li ol{
+margin-bottom:5px;
+}
+
 h1, h2, h3 {
 line-height:1.1;
 font-weight:700;
@@ -137,12 +141,9 @@ section .post-title {
 margin-bottom:5px;
 }
 
-section .post-date {
-color:#999;
-}
-
 section .post-tags {
-font-size:0.8em;
+font-size:0.85em;
+color:#999;
 }
 
 section p {

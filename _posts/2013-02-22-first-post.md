@@ -8,15 +8,15 @@ This is a test post made using the Jekyll system on GitHub. The text of this pos
 Testing some Markdown features:
 
 * List item 1
-    * Subitem 1
-    * *Subitem 2 with emphasis*
+	* Subitem 1
+	* *Subitem 2 with emphasis*
 * List item 2 with **strong emphasis**
 
 Inline code is embedded using backticks (\`). The C code `printf("Hello, world!")` prints "Hello, world!" to output. Additionally, longer code may be inserted using indents:
-     #include <stdio.h>
-	 int main(){
+	#include <stdio.h>
+	int main(){
 		printf("Hello, world!");
 		return 0;
-	 }
+	}
 
 Quite fascinating.
