@@ -2,6 +2,7 @@
 layout: post
 title: F1RST P0ST
 tags: news
+date: 2013-02-22 13:04:29 +05:00
 ---
 This is a test post made using the Jekyll system on GitHub. The text of this post is written in [Markdown](http://en.wikipedia.org/wiki/Markdown), a surprisingly lightweight markup language.
 
